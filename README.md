@@ -22,7 +22,7 @@ To run DeepTrace, ensure you have the following installed:
 - Scapy 2.4 or later
 
 ## Installation 📂 
-*(Does NOT work yet, please bear with me while I add requirements.txt file and fix errors*
+*(Does NOT work yet, please bear with me while I add requirements.txt file and fix errors*  
 Follow the steps below to install and set up DeepTrace:
 
 1. Clone this repository:
