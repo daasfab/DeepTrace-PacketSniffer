@@ -21,7 +21,6 @@ To run DeepTrace, ensure you have the following installed:
 - Python 3.6 or later
 - Scapy 2.4 or later
 
-/
 ## Installation 📂 
 *(Does NOT work yet, please bear with me while I add requirements.txt file and fix errors*
 Follow the steps below to install and set up DeepTrace:
