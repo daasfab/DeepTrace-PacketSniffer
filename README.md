@@ -1,4 +1,5 @@
 # DeepTrace
+<img src="packetSnifferImage.png" alt="Banner" style="width:100%;"/>
 
 **DeepTrace** is a powerful low-level packet sniffer built by using Python and Scapy. This tool allows you to capture and analyze network traffic in real-time, providing insights into the underlying communication of network protocols.  
 <br>
